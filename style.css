@@ -1,0 +1,53 @@
+body {
+
+    font-size: 15pt;
+
+}
+
+#logo-container
+
+{
+
+    position: relative;
+
+    margin: auto;
+
+    height: 30vw;
+
+    width: 30vw;
+
+    background-size: 100%;
+
+    background-color: rgb(52, 131, 235);
+
+    color: #ffffff;
+
+}
+
+h1
+
+{
+
+    position: relative;
+
+    margin: 0px 0px 0px 10px;
+
+    padding: 60px 0px 0px 0px;
+
+}
+
+hr
+
+{
+
+    width: 15vw;
+
+    height: 1.2vw;
+
+    border-radius: 5px;
+
+    color: #ffffff;
+
+    margin: -5px 50px 0px 10.8px;
+
+}
